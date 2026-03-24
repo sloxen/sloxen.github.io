@@ -92,8 +92,8 @@ Sloxen is a trading name of:
 [![](assets/web_green.svg)](https://sloxen.com)
 [![](assets/git_green.svg )](https://github.com/sloxen)
 [![](assets/in_green.svg)](https://www.linkedin.com/company/sloxen)
-[![](assets/x_green.svg)](https://x.com/sloxen)
-[![](assets/youtube_green.svg)](https://www.youtube.com/@sloxen)
+[![](assets/x_green.svg)](https://x.com/sloxenltd)
+[![](assets/youtube_green.svg)](https://www.youtube.com/@sloxenltd)
 
 [Privacy](https://sloxen.com/privacy.html) | [Terms](https://sloxen.com/terms.html)  
 
