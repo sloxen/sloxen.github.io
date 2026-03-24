@@ -1,6 +1,6 @@
-# Sloths Intel Content Guide
+# Sloxen Content Guide
 
-This guide keeps Sloths Intel copy calm, deliberate, and consistent.
+This guide keeps Sloxen copy calm, deliberate, and consistent.
 
 ## The 3-paragraph rule
 

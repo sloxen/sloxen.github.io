@@ -1,6 +1,6 @@
-# Sloths Intel
+# Sloxen
 
-[![Sloths Intel Logo](assets/logo_small.png)](https://slothsintel.com)
+[![Sloxen Logo](assets/logo_small.png)](https://sloxen.com)
 
 Messy business data?  
 Our **Hybrid Intelligence** turns it into confident decisions.
@@ -9,7 +9,7 @@ Our **Hybrid Intelligence** turns it into confident decisions.
 
 ## Overview
 
-Sloths Intel designs AI systems that help organisations make **clear, reliable decisions from imperfect data**.
+Sloxen designs AI systems that help organisations make **clear, reliable decisions from imperfect data**.
 
 We work with organisations facing:
 
@@ -30,7 +30,7 @@ Sloths are often mistaken for slow.
 
 In reality, they are **efficient and deliberate** — evolved to operate in complex environments with minimal waste.
 
-That philosophy guides [**Sloths Intel**](https://slothsintel.com).
+That philosophy guides [**Sloxen**](https://sloxen.com).
 
 We design AI systems that ignore noise, conserve effort, and act only when it matters.
 
@@ -78,23 +78,23 @@ Scope, deliverables, and success criteria are always confirmed before work begin
 
 If you'd like to discuss a project or collaboration:
 
-[**Google Meeting**](https://calendar.app.google/C3xK8cQbguh9q2q86) |  [**Contact form**](https://slothsintel.com/contact.html) | [**Email us**](mailto:info@slothsintel.com)
+[**Google Meeting**](https://calendar.app.google/C3xK8cQbguh9q2q86) |  [**Contact form**](https://sloxen.com/contact.html) | [**Email us**](mailto:info@sloxen.com)
 
 ---
 
 ## Legal
 
-Sloths Intel is a trading name of:
+Sloxen is a trading name of:
 
-**Sloths Intel Ltd**. Registered office: 82A James Carter Road, Mildenhall, Suffolk  UK, IP28 7DE. Registered number: [16907507](https://find-and-update.company-information.service.gov.uk/company/16907507) (England and Wales)
+**Sloxen Ltd**. Registered office: 82A James Carter Road, Mildenhall, Suffolk  UK, IP28 7DE. Registered number: [16907507](https://find-and-update.company-information.service.gov.uk/company/16907507) (England and Wales)
 
-[![](assets/email_green.svg)](mailto:info@slothsintel.com)
-[![](assets/web_green.svg)](https://slothsintel.com)
-[![](assets/git_green.svg )](https://github.com/slothsintel)
-[![](assets/in_green.svg)](https://www.linkedin.com/company/slothsintel)
-[![](assets/x_green.svg)](https://x.com/slothsintel)
-[![](assets/youtube_green.svg)](https://www.youtube.com/@slothsintel)
+[![](assets/email_green.svg)](mailto:info@sloxen.com)
+[![](assets/web_green.svg)](https://sloxen.com)
+[![](assets/git_green.svg )](https://github.com/sloxen)
+[![](assets/in_green.svg)](https://www.linkedin.com/company/sloxen)
+[![](assets/x_green.svg)](https://x.com/sloxen)
+[![](assets/youtube_green.svg)](https://www.youtube.com/@sloxen)
 
-[Privacy](https://slothsintel.com/privacy.html) | [Terms](https://slothsintel.com/terms.html)  
+[Privacy](https://sloxen.com/privacy.html) | [Terms](https://sloxen.com/terms.html)  
 
 ---
