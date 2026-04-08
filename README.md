@@ -7,7 +7,7 @@ Our **Hybrid Intelligence** turns it into confident decisions.
 
 ---
 
-## Overview
+## Mission
 
 Sloxen designs AI systems that help organisations make **clear, reliable decisions from imperfect data**.
 
@@ -24,7 +24,7 @@ Our goal is simple:
 
 ---
 
-## About
+## Philosophy
 
 Sloths are often mistaken for slow.
 

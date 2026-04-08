@@ -4,7 +4,7 @@ This guide keeps Sloxen copy calm, deliberate, and consistent.
 
 ## The 3-paragraph rule
 
-Every section (About, Approach, Product, Vacancy, etc.) must be exactly 3 paragraphs.
+Every section (Philosophy, Approach, Product, Vacancy, etc.) must be exactly 3 paragraphs.
 
 ### Paragraph 1 - Context / Why
 - Define the problem or the reason the section exists.
