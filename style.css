@@ -433,6 +433,60 @@ a:hover{ text-decoration: underline; }
   background: #e5e7eb;
 }
 
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.pricing-card {
+  border-radius: 18px;
+  padding: 1.25rem;
+  background: #EEF5FA;
+  border: 1px solid #D6E6F2;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pricing-card:nth-child(1) {
+  background: #F0F7FC;
+  border-color: #2C7FB8;
+}
+
+.pricing-card:nth-child(2) {
+  background: #F2F8FC;
+  border-color: #CFE3F1;
+}
+
+.pricing-card:nth-child(3) {
+  background: #F6FAFD;
+  border-color: #DDEBF5;
+}
+
+.pricing-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.pricing-tag {
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #2C7FB8;
+}
+
+.pricing-note {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+.pricing-card p {
+  color: #374151;
+}
+
+
 /* =========================================================
    11) Anchor/Scroll Offset (single system)
    ========================================================= */
@@ -1171,6 +1225,12 @@ body.nav-open{ overflow: hidden; }
     max-width: 320px;
     height: auto;
     margin: 0 auto;
+  }
+}
+
+@media (max-width: 760px) {
+  .pricing-grid {
+    grid-template-columns: 1fr;
   }
 }
 
