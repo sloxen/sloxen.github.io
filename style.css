@@ -389,6 +389,49 @@ a:hover{ text-decoration: underline; }
   margin: 0;
 }
 
+.process-flow {
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: auto;
+  padding: 1rem 0;
+  margin: 1rem 0;
+}
+
+.step {
+  flex: 0 0 auto;
+  min-width: 140px;
+  text-align: center;
+  position: relative;
+}
+
+.step-number {
+  width: 36px;
+  height: 36px;
+  margin: 0 auto 0.5rem;
+  border-radius: 50%;
+  background: #1b6b02;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.step p {
+  font-size: 0.9rem;
+  color: #1b6b02;
+}
+
+/* optional connecting line */
+.step:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 18px;
+  right: -0.75rem;
+  width: 1.5rem;
+  height: 2px;
+  background: #e5e7eb;
+}
 
 /* =========================================================
    11) Anchor/Scroll Offset (single system)
