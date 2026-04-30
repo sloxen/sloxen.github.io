@@ -3,7 +3,7 @@
 [![Sloxen Logo](assets/logo_small.png)](https://sloxen.com)
 
 Messy business data?  
-Our **Hybrid Intelligence Systems(HISs™)** turns it into confident decisions.
+Our **Hybrid Intelligence Systems(HISx™)** turns it into confident decisions.
 
 ---
 
@@ -42,7 +42,7 @@ The result is intelligence that stays clear under pressure — reliable and easi
 
 Real-world organisations rarely have perfect data.
 
-We therefore use **HISs™**, combining:
+We therefore use **HISx™**, combining:
 
 - raw operational data
 - machine learning
