@@ -505,6 +505,37 @@ figure img{
   border-radius: 999px;
 }
 
+.product-plot-strip-wide {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  padding: 0.75rem 0 1rem;
+  margin: 1rem 0 1.25rem;
+  max-width: 100%;
+}
+
+.product-plot-strip-wide img {
+  flex: 0 0 auto;
+  height: 200px;
+  width: auto;
+  border-radius: 14px;
+  border: 1px solid #e5e7eb;
+  scroll-snap-align: start;
+  background: #fff;
+  object-fit: cover;
+}
+
+.product-plot-strip-wide::-webkit-scrollbar {
+  height: 8px;
+}
+
+.product-plot-strip-wide::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 999px;
+}
+
 
 /* =========================================================
    13) Footer
@@ -1091,6 +1122,14 @@ body.nav-open{ overflow: hidden; }
   border: 1px solid rgba(47,125,99,0.35);
 }
 
+@media (max-width: 640px) {
+  .product-plot-strip img {
+    width: 88vw;
+    max-width: 320px;
+    height: auto;
+    margin: 0 auto;
+  }
+}
 
 /* =========================================================
    END

@@ -159,10 +159,10 @@
       <div class="plot-carousel">
         <button class="plot-nav left" type="button" onclick="scrollPlots(this, -1)">‹</button>
         <div class="product-plot-strip" id="plotStrip" aria-label="AutoTrac preview plots">
-          <img src="assets/products/autotrac_screenshot_1.jpg" alt="AutoTrac time by project plot">
-          <img src="assets/products/autotrac_screenshot_2.jpg" alt="AutoTrac income by project plot">
-          <img src="assets/products/autotrac_screenshot_3.jpg" alt="AutoTrac income per hour plot">
-          <img src="assets/products/autotrac_screenshot_4.jpg" alt="AutoTrac monthly summary plot">
+          <img src="assets/products/autotrac_screenshot_1.jpg" alt="AutoTrac time by project plot" loading="lazy" >
+          <img src="assets/products/autotrac_screenshot_2.jpg" alt="AutoTrac income by project plot" loading="lazy">
+          <img src="assets/products/autotrac_screenshot_3.jpg" alt="AutoTrac income per hour plot" loading="lazy">
+          <img src="assets/products/autotrac_screenshot_4.jpg" alt="AutoTrac monthly summary plot" loading="lazy">
         </div>
         <button class="plot-nav right" type="button" onclick="scrollPlots(this, 1)">›</button>
       </div>
@@ -427,7 +427,11 @@
 <script>
 function scrollPlots(button, direction) {
   const carousel = button.closest('.plot-carousel');
-  const container = carousel.querySelector('.product-plot-strip');
+
+  const container = carousel.querySelector(
+    '.product-plot-strip, .product-plot-strip-wide'
+  );
+
   const scrollAmount = container.clientWidth * 0.8;
 
   container.scrollBy({
