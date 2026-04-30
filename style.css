@@ -521,18 +521,33 @@ figure img{
   margin: 1.5rem auto;
 }
 
-.zoomable img{
-  width: 100%;
+.figure-half figcaption {
+  display: block;
+  width: min(90vw, 1036px);
+  margin-top: 0.75rem;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  text-align: left;
+  position: relative;
+  z-index: 1;
+}
+
+.zoomable img {
+  position: relative;
+  z-index: 2;
   cursor: zoom-in;
   transition: transform 0.25s ease;
+  transform-origin: center top;
 }
 
-.zoomable img:hover{
+.zoomable img:hover {
   transform: scale(2);
+  z-index: 10;
 }
 
-.zoomable img:active{
+.zoomable img:active {
   transform: scale(1.5);
+  z-index: 10;
   cursor: zoom-out;
 }
 
@@ -975,6 +990,14 @@ nav a.active{
   .site-footer p,
   .site-footer a{
     font-size: inherit;
+  }
+}
+
+@media (max-width: 720px){
+  .figure-half figcaption {
+    width: calc(100vw - 3rem);
+    max-width: none;
+    position: relative;
   }
 }
 
