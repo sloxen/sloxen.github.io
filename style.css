@@ -675,11 +675,6 @@ figure img{
   font-size: inherit;
 }
 
-.footer-links{
-  display: flex;
-  gap: 0.5rem;
-}
-
 .footer-links a{
   font-size: 0.75rem;
   text-decoration: none;
@@ -691,6 +686,12 @@ figure img{
   text-decoration: underline;
 }
 
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: nowrap;
+}
 
 /* =========================================================
    14) Page Theme
