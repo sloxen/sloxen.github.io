@@ -42,7 +42,7 @@ The result is intelligence that stays clear under pressure — reliable and easi
 
 Real-world organisations rarely have perfect data.
 
-We therefore use **HISx™**, combining:
+We therefore use [**HISx™**](https://sloxen.com/products.html), combining:
 
 - raw operational data
 - machine learning
