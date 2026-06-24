@@ -1,4 +1,4 @@
-# Sloxen
+# Sloxen®
 
 [![Sloxen Logo](assets/logo_small.png)](https://sloxen.com)
 
@@ -9,7 +9,7 @@ Our **Hybrid Intelligence Systems(HISx™)** turns it into confident decisions.
 
 ## Mission
 
-Sloxen designs AI systems that help organisations make **clear, reliable decisions from imperfect data**.
+Sloxen® designs AI systems that help organisations make **clear, reliable decisions from imperfect data**.
 
 We work with organisations facing:
 
@@ -30,7 +30,7 @@ Sloths are often mistaken for slow.
 
 In reality, they are **efficient and deliberate** — evolved to operate in complex environments with minimal waste.
 
-That philosophy guides [**Sloxen**](https://sloxen.com).
+That philosophy guides [**Sloxen®**](https://sloxen.com).
 
 We design AI systems that ignore noise, conserve effort, and act only when it matters.
 
@@ -84,7 +84,7 @@ If you'd like to discuss a project or collaboration:
 
 ## Legal
 
-Sloxen is a trading name of:
+Sloxen® is a trading name of:
 
 **Sloxen Ltd**. Registered office: 82A James Carter Road, Mildenhall, Suffolk  UK, IP28 7DE. Registered number: [16907507](https://find-and-update.company-information.service.gov.uk/company/16907507) (England and Wales)
 
